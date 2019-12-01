@@ -62,7 +62,7 @@ namespace usengecim
                     {
                         try
                         {
-                            Process.Start(File.ReadAllText("editor.base"), "tht_image.jpeg");
+                            Process.Start(File.ReadAllLines("data.base")[1], "tht_image.jpeg");
                         }
                         catch (Exception) { }
                     }

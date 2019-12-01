@@ -1,0 +1,10 @@
+C:\Users\Harun\documents\visual studio 2015\Projects\usengecim\usengecim\bin\Debug\usengecim.exe.config
+C:\Users\Harun\documents\visual studio 2015\Projects\usengecim\usengecim\bin\Debug\usengecim.exe
+C:\Users\Harun\documents\visual studio 2015\Projects\usengecim\usengecim\bin\Debug\usengecim.pdb
+C:\Users\Harun\documents\visual studio 2015\Projects\usengecim\usengecim\obj\Debug\usengecim.Form1.resources
+C:\Users\Harun\documents\visual studio 2015\Projects\usengecim\usengecim\obj\Debug\usengecim.mainform.resources
+C:\Users\Harun\documents\visual studio 2015\Projects\usengecim\usengecim\obj\Debug\usengecim.Properties.Resources.resources
+C:\Users\Harun\documents\visual studio 2015\Projects\usengecim\usengecim\obj\Debug\usengecim.csproj.GenerateResource.Cache
+C:\Users\Harun\documents\visual studio 2015\Projects\usengecim\usengecim\obj\Debug\usengecim.exe
+C:\Users\Harun\documents\visual studio 2015\Projects\usengecim\usengecim\obj\Debug\usengecim.pdb
+C:\Users\Harun\documents\visual studio 2015\Projects\usengecim\usengecim\obj\Debug\usengecim.csprojResolveAssemblyReference.cache
